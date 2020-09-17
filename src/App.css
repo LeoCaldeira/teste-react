@@ -28,7 +28,6 @@
 .input-resposta{
     border: none;
     border-bottom: 1px solid  rgb(55, 122, 211);
-    color: rgba(255, 255, 255, 0.37);
     background: none;
     width: 100%;
 
@@ -68,13 +67,13 @@
     font-weight: bold;
 }
 
-.muda-center{
+.move-center{
     position: absolute;
     background: none;
 
 }
 
-.muda-ne{
+.move-ne{
     position: absolute;
     left: 5%;
     top: 5%;
@@ -84,7 +83,7 @@
     border-radius: 50%;
 }
 
-.muda-n{
+.move-n{
     position: absolute;
     top: 5%;
     background-color: rgb(0, 255, 115);
@@ -93,7 +92,7 @@
     border-radius: 50%;
 }
 
-.muda-nd{
+.move-nd{
     position: absolute;
     right: 5%;
     top: 5%;
@@ -103,7 +102,7 @@
     border-radius: 50%;
 }
 
-.muda-e{
+.move-e{
     position: absolute;
     left: 5%;
     background-color: rgb(0, 255, 115);
@@ -112,7 +111,7 @@
     border-radius: 50%;
 }
 
-.muda-d{
+.move-d{
     position: absolute;
     right: 5%;
     background-color: rgb(0, 255, 115);
@@ -121,7 +120,7 @@
     border-radius: 50%;
 }
 
-.muda-se{
+.move-se{
     position: absolute;
     left: 5%;
     bottom: 5%;
@@ -131,7 +130,7 @@
     border-radius: 50%;
 }
 
-.muda-s{
+.move-s{
     position: absolute;
     bottom: 5%;
     background-color: rgb(0, 255, 115);
@@ -140,7 +139,7 @@
     border-radius: 50%;
 }
 
-.muda-sd{
+.move-sd{
     position: absolute;
     right: 5%;
     bottom: 5%;

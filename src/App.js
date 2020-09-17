@@ -22,7 +22,7 @@ function App() {
   
 
   const onCLickButtonSend = () => {
-    setDirection(setInputValue);
+    setDirection(inputValue);
     
     //apagar o que ta no input
     setInputValue("");
