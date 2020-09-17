@@ -1,0 +1,20 @@
+"git init" criar a pasta .git 
+
+"git add ." adicionar todos os componentes ao git
+
+"git commit -m" criando a pagina de todo
+
+"git clone https://github.com/adriller/todo-list-react.git" para puxar os arquivos
+que estão dentro do github
+
+"npm install" para instalar asbibliotecas que tem dentro do reportitorio	
+
+"npm pull -m origin master" faz download das alterações que foram executadas no arquivo pela primeira vez
+"npm pull origin master" faz download das alterações que foram executadas no arquivo
+"npm push origin master" envia todos os arquivos para o repositorio no git
+
+"git commit -m "texto"" deixa anotação no git do que foi alterado
+
+"git config --global user.email leocaldeira_hbl@hotmail.com" configura o usuario no github
+
+"git config --global user.name Leonardo Caldeira" configura nome no github
